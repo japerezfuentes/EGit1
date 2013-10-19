@@ -7,6 +7,6 @@ public class Ejercicio {
 	private int numero3;
 	private int numero4;
 
-
+	private int release;
 
 }
