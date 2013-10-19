@@ -8,6 +8,7 @@ public class Ejercicio {
 	private int numero4;
 
 	private int numero5;
+	private int numero6;
 
 
 }
